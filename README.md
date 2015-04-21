@@ -4,5 +4,5 @@ You can generate a new Iterativ Django Project with the [Cookiecutter](https://g
 command. [How to install Cookiecutter](http://cookiecutter.readthedocs.org/en/latest/installation.html).
 
 ```
-> cookiecutter <>
+> cookiecutter https://github.com/iterativ/cookiecutter-simple-django-spa
 ```
