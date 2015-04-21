@@ -1,0 +1,9 @@
+# Local development dependencies go here
+-r base.txt
+django-debug-toolbar==1.3
+
+# used for the deployment helpers
+-e git://github.com/iterativ/deployit.git@ubuntu1204#egg=deployit
+
+# testing
+factory_boy==2.5.1
