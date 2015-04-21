@@ -1,0 +1,10 @@
+*.py[co]
+*.egg*
+*.swp
+*~
+build
+*.db
+*.log
+.idea/*
+.vagrant
+.sass-cache
